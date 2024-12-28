@@ -1,5 +1,13 @@
 # Detecting Users' Handwriting Using SIFT and ORB Feature Extraction Techniques  
 
+![image](https://github.com/user-attachments/assets/4dda30e1-796d-4feb-a6e4-d8909681c94e)
+
+![image](https://github.com/user-attachments/assets/996df93e-169e-4959-9b3c-2ae01322462c)
+![image](https://github.com/user-attachments/assets/3be912f8-084f-4036-9285-1220a315e258)
+
+![image](https://github.com/user-attachments/assets/8641db64-29ab-44df-b3ea-c9aaa1bfbd83)
+
+
 ## Overview  
 This project focuses on building a system to detect and classify users' handwriting using advanced feature extraction techniques: **SIFT (Scale-Invariant Feature Transform)** and **ORB (Oriented FAST and Rotated BRIEF)**. The goal is to evaluate and compare the robustness and efficiency of these techniques under various data variations, leveraging concepts such as **Bag of Words (BoW)** and **Support Vector Machines (SVM)** for classification.  
 
